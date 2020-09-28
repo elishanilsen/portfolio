@@ -1,9 +1,14 @@
 body {
   min-width: 640px;
 }
+
+h2 {
+  color: white;
+  text-align: center;
+}
 header {
   background-color: black;
-  text-color: white;
+  
   footer {
     background-color: green;
   }
